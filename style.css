@@ -13,6 +13,11 @@ main {
   padding: 20px;
 }
 
+#main-title {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
 .poster {
   float: right;
   width: 25%;
@@ -88,6 +93,7 @@ main {
 .actor p {
   overflow: hidden;
 }
+
 
 
 
